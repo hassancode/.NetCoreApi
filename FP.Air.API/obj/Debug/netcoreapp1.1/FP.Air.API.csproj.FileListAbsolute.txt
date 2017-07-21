@@ -1,0 +1,14 @@
+C:\Source\API\FP.Air.API\FP.Air.API\obj\Debug\netcoreapp1.1\FP.Air.API.AssemblyInfo.cs
+C:\Source\API\FP.Air.API\FP.Air.API\obj\Debug\netcoreapp1.1\FP.Air.API.dll
+C:\Source\API\FP.Air.API\FP.Air.API\obj\Debug\netcoreapp1.1\FP.Air.API.pdb
+C:\Source\API\FP.Air.API\FP.Air.API\bin\FP.Air.API.deps.json
+C:\Source\API\FP.Air.API\FP.Air.API\bin\FP.Air.API.runtimeconfig.json
+C:\Source\API\FP.Air.API\FP.Air.API\bin\FP.Air.API.runtimeconfig.dev.json
+C:\Source\API\FP.Air.API\FP.Air.API\bin\FP.Air.API.dll
+C:\Source\API\FP.Air.API\FP.Air.API\bin\FP.Air.API.pdb
+C:\Source\API\FP.Air.API\FP.Air.API\obj\Debug\netcoreapp1.1\FP.Air.API.csprojResolveAssemblyReference.cache
+C:\Source\API\FP.Air.API\FP.Air.API\bin\Debug\netcoreapp1.1\FP.Air.API.deps.json
+C:\Source\API\FP.Air.API\FP.Air.API\bin\Debug\netcoreapp1.1\FP.Air.API.runtimeconfig.json
+C:\Source\API\FP.Air.API\FP.Air.API\bin\Debug\netcoreapp1.1\FP.Air.API.runtimeconfig.dev.json
+C:\Source\API\FP.Air.API\FP.Air.API\bin\Debug\netcoreapp1.1\FP.Air.API.dll
+C:\Source\API\FP.Air.API\FP.Air.API\bin\Debug\netcoreapp1.1\FP.Air.API.pdb
