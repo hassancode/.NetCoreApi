@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace TestApi.Controllers
 {
     [Route("api/cities")]
-    public class PointsOfInterestControllercs : Controller
+    public class PointsOfInterestController : Controller
     {
-        [HttpGet("{cityId}/pointofinterest")]
+        [HttpGet("{cityId}/pointsofinterest")]
         public IActionResult GetPointOfInterests(int cityId)
         {
             var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
@@ -22,7 +22,7 @@ namespace TestApi.Controllers
             return Ok(city.PointOfInterests);
         }
 
-        [HttpGet("{cityId}/pointofinterest/{id}")]
+        [HttpGet("{cityId}/pointsofinterest/{id}")]
         public IActionResult GetPointOfInterests(int cityId, int id)
         {
             var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);

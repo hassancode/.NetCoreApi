@@ -1,9 +1,0 @@
-C:\Source\API\FP.Air.API\TestApi\bin\Debug\netcoreapp1.1\TestApi.deps.json
-C:\Source\API\FP.Air.API\TestApi\bin\Debug\netcoreapp1.1\TestApi.runtimeconfig.json
-C:\Source\API\FP.Air.API\TestApi\bin\Debug\netcoreapp1.1\TestApi.runtimeconfig.dev.json
-C:\Source\API\FP.Air.API\TestApi\bin\Debug\netcoreapp1.1\TestApi.dll
-C:\Source\API\FP.Air.API\TestApi\bin\Debug\netcoreapp1.1\TestApi.pdb
-C:\Source\API\FP.Air.API\TestApi\obj\Debug\netcoreapp1.1\TestApi.csprojResolveAssemblyReference.cache
-C:\Source\API\FP.Air.API\TestApi\obj\Debug\netcoreapp1.1\TestApi.AssemblyInfo.cs
-C:\Source\API\FP.Air.API\TestApi\obj\Debug\netcoreapp1.1\TestApi.dll
-C:\Source\API\FP.Air.API\TestApi\obj\Debug\netcoreapp1.1\TestApi.pdb
