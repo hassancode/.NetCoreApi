@@ -1,25 +1,23 @@
 ﻿<Properties StartupConfiguration="{FB91A647-F2C0-47EA-ADFB-B50CC96BAE83}|Default">
   <MonoDevelop.Ide.ItemProperties.TestApi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="FP.Air.API" expanded="True">
-            <Node name="FP.Air.API" expanded="True" />
-            <Node name="TestApi" expanded="True" selected="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApi/Models/PointOfInterestForCreationDto (copy).cs">
+    <Files>
+      <File FileName="TestApi/Controllers/PointsOfInterestController.cs" Line="58" Column="13" />
+      <File FileName="TestApi/Controllers/CitiesController.cs" Line="14" Column="10" />
+      <File FileName="TestApi/Program.cs" Line="23" Column="1" />
+      <File FileName="TestApi/Startup.cs" Line="29" Column="13" />
+      <File FileName="TestApi/Models/PointOfInterestForCreationDto.cs" Line="19" Column="1" />
+      <File FileName="TestApi/Models/CityDto.cs" Line="1" Column="1" />
+      <File FileName="TestApi/Models/PointOfInterestDto.cs" Line="12" Column="34" />
+      <File FileName="TestApi/CitiesDataStore.cs" Line="59" Column="18" />
+      <File FileName="TestApi/Models/PointOfInterestForCreationDto (copy).cs" Line="1" Column="1" />
+    </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/hassan/Desktop/Development/DotNet/Api/DotNetCoreApi/TestApi/Controllers/CitiesController.cs" relfile="TestApi/Controllers/CitiesController.cs" line="14" column="10" />
-      <Breakpoint file="/Users/hassan/Desktop/Development/DotNet/Api/DotNetCoreApi/TestApi/Program.cs" relfile="TestApi/Program.cs" line="14" column="1" />
-      <Breakpoint file="/Users/hassan/Desktop/Development/DotNet/Api/DotNetCoreApi/TestApi/Program.cs" relfile="TestApi/Program.cs" line="22" column="13" />
+      <Breakpoint file="/Users/hassan/Desktop/Development/DotNet/Api/DotNetCoreApi/TestApi/Controllers/PointsOfInterestController.cs" relfile="TestApi/Controllers/PointsOfInterestController.cs" line="49" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

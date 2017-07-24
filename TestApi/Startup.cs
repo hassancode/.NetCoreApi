@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Routing;
+using Newtonsoft.Json.Serialization;
+using Microsoft.AspNetCore.Mvc.Formatters;
 
 namespace TestApi
 {
@@ -20,7 +22,19 @@ namespace TestApi
             //Framework Services: like MVC, Entity Framework, Identity etc
             //Application Services: like EmailService
             //BuiltIn Service: like ApplicationBuilder, Logging.
-            services.AddMvc();
+            services.AddMvc().AddMvcOptions(o=>
+                                            o.OutputFormatters.Add(
+                                                new XmlDataContractSerializerOutputFormatter()));
+
+
+                    
+            //        .AddJsonOptions(o=>{
+            //    if(o.SerializerSettings.ContractResolver != null){
+            //                var castedResolver = o.SerializerSettings.ContractResolver
+            //                                      as DefaultContractResolver;
+            //                castedResolver.NamingStrategy = null;
+            //    }
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
